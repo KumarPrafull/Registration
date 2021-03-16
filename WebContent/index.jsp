@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Registration Page</title>
+<title>Insert title here</title>
 </head>
 <body>
 <nav><a href="login.jsp">Login</a></nav>
