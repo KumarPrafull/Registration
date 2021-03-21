@@ -41,6 +41,7 @@ public class Register extends HttpServlet {
 		String gender = request.getParameter("gender");
 		String address = request.getParameter("address");
 		String password = request.getParameter("password");
+    
 	
 		Member member = new Member(uname, phone, age, gender, address, password );
 		
