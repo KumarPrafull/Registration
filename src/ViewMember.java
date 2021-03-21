@@ -19,6 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/viewmember")
 public class ViewMember extends HttpServlet {
 	
+  
 	Connection con;
 	PreparedStatement pst;
 	ResultSet rs;
